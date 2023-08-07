@@ -12,6 +12,12 @@ Projeto criado para praticar conceitos REST, middlewares e controllers.
 
 -------------------------------------------------------------------
 
+### Modelagem do Banco de Dados
+![image](https://github.com/brittola/users-api/assets/99913525/b9b65587-11a7-4766-93de-bdbbbfe81a8e)
+
+
+-------------------------------------------------------------------
+
 ## Endpoints - Usuários
 Todas as rotas estão protegidas por autenticação com JWT.
 ### POST /user
